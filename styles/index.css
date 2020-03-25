@@ -61,7 +61,7 @@ img {
   height: auto;
 }
 
-@media screen and (max-height: 450px) {
+@media screen and (max-width: 450px) {
   .sidenav {
     padding-top: 15px;
   }
@@ -70,5 +70,6 @@ img {
     font-size: 18px;
   }
 }
+
 
 /*# sourceMappingURL=index.css.map */
